@@ -1,0 +1,7 @@
+Feature_Set,Model,mean,std
+RFECV_Selected_Set,SVM,0.8,0.0
+RFECV_Selected_Set,Logistic Regression,0.7822,0.0099
+Domain_Knowledge_Set,Logistic Regression,0.7689,0.0199
+RFECV_Selected_Set,XGBoost,0.7467,0.0253
+Domain_Knowledge_Set,SVM,0.7333,0.0157
+Domain_Knowledge_Set,XGBoost,0.7244,0.0122

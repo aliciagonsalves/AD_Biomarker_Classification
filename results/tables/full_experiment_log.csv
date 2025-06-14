@@ -1,0 +1,31 @@
+Feature_Set,Random_Seed,Model,Best_CV_Accuracy,Best_Params
+Domain_Knowledge_Set,0,Logistic Regression,0.7555555555555554,{'model__C': 0.1}
+Domain_Knowledge_Set,0,XGBoost,0.7333333333333333,"{'model__max_depth': 2, 'model__n_estimators': 50}"
+Domain_Knowledge_Set,0,SVM,0.711111111111111,"{'model__C': 1, 'model__gamma': 'scale'}"
+Domain_Knowledge_Set,42,Logistic Regression,0.7777777777777777,{'model__C': 10}
+Domain_Knowledge_Set,42,XGBoost,0.7333333333333333,"{'model__max_depth': 2, 'model__n_estimators': 50}"
+Domain_Knowledge_Set,42,SVM,0.7333333333333334,"{'model__C': 1, 'model__gamma': 'scale'}"
+Domain_Knowledge_Set,123,Logistic Regression,0.7555555555555555,{'model__C': 0.1}
+Domain_Knowledge_Set,123,XGBoost,0.7111111111111111,"{'model__max_depth': 2, 'model__n_estimators': 50}"
+Domain_Knowledge_Set,123,SVM,0.7333333333333334,"{'model__C': 1, 'model__gamma': 'scale'}"
+Domain_Knowledge_Set,1024,Logistic Regression,0.8,{'model__C': 1}
+Domain_Knowledge_Set,1024,XGBoost,0.711111111111111,"{'model__max_depth': 2, 'model__n_estimators': 50}"
+Domain_Knowledge_Set,1024,SVM,0.7555555555555555,"{'model__C': 1, 'model__gamma': 'scale'}"
+Domain_Knowledge_Set,2025,Logistic Regression,0.7555555555555555,{'model__C': 0.1}
+Domain_Knowledge_Set,2025,XGBoost,0.7333333333333333,"{'model__max_depth': 3, 'model__n_estimators': 50}"
+Domain_Knowledge_Set,2025,SVM,0.7333333333333333,"{'model__C': 1, 'model__gamma': 'scale'}"
+RFECV_Selected_Set,0,Logistic Regression,0.7777777777777778,{'model__C': 1}
+RFECV_Selected_Set,0,XGBoost,0.7555555555555555,"{'model__max_depth': 2, 'model__n_estimators': 50}"
+RFECV_Selected_Set,0,SVM,0.8,"{'model__C': 10, 'model__gamma': 'scale'}"
+RFECV_Selected_Set,42,Logistic Regression,0.7777777777777778,{'model__C': 1}
+RFECV_Selected_Set,42,XGBoost,0.7777777777777777,"{'model__max_depth': 2, 'model__n_estimators': 50}"
+RFECV_Selected_Set,42,SVM,0.7999999999999999,"{'model__C': 1, 'model__gamma': 'scale'}"
+RFECV_Selected_Set,123,Logistic Regression,0.7777777777777778,{'model__C': 1}
+RFECV_Selected_Set,123,XGBoost,0.7333333333333333,"{'model__max_depth': 2, 'model__n_estimators': 50}"
+RFECV_Selected_Set,123,SVM,0.7999999999999999,"{'model__C': 10, 'model__gamma': 'scale'}"
+RFECV_Selected_Set,1024,Logistic Regression,0.7999999999999999,{'model__C': 10}
+RFECV_Selected_Set,1024,XGBoost,0.711111111111111,"{'model__max_depth': 2, 'model__n_estimators': 100}"
+RFECV_Selected_Set,1024,SVM,0.7999999999999999,"{'model__C': 10, 'model__gamma': 'scale'}"
+RFECV_Selected_Set,2025,Logistic Regression,0.7777777777777777,{'model__C': 0.1}
+RFECV_Selected_Set,2025,XGBoost,0.7555555555555554,"{'model__max_depth': 2, 'model__n_estimators': 100}"
+RFECV_Selected_Set,2025,SVM,0.7999999999999999,"{'model__C': 10, 'model__gamma': 'scale'}"
