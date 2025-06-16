@@ -199,3 +199,6 @@ results/tables/cleaned_biomarker_data.csv
 results/tables/train_dataset.csv
 results/tables/test_dataset.csv
 results/models/
+.DS_Store
+results/.DS_Store
+results/figures/.DS_Store
